@@ -23,4 +23,5 @@ jobs:
       with:
         commit_message: 'Sort blocklist'
         branch: main
-        add: 'blocklist.txt'
+
+
