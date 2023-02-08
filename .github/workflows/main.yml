@@ -15,4 +15,4 @@ jobs:
 
     - name: Sort file
       run: |
-        awk '{ print | "sort" }' blocklist.txt > blocklist_sorted.txt
+        cat blocklist.txt | while read line; do echo "$line" | tr ' ' '\n' | sort | tr '\n' ' '; echo; done > sorted_file.txt
