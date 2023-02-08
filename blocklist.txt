@@ -1,15 +1,13 @@
+0.0.0.0 emigrantebi.org
+0.0.0.0 megaoffers.tk
 0.0.0.0 oberbank-app.online
 0.0.0.0 oberbank.site
-0.0.0.0 sofortchancen.de
-0.0.0.0 megaoffers.tk
 0.0.0.0 royalacademysc.club
-0.0.0.0 emigrantebi.org
+0.0.0.0 sofortchancen.de
 0.0.0.0 testfile.org
-
 a
 b
 c
 d
-
-test
 dssd
+test
