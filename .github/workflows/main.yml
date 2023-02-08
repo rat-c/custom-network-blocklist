@@ -13,15 +13,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Sort blocklist
+    - name: Sort blocklist.txt and remove duplicates
       run: |
         sort -u blocklist.txt | grep -v '^$' > blocklist_sorted.txt
         mv blocklist_sorted.txt blocklist.txt
 
-    - name: Commit changes
+    - name: Commit fixed and beautified blocklist.txt
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: 'Sort blocklist'
         branch: main
-
-
