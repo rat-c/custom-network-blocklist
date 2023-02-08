@@ -15,4 +15,4 @@ jobs:
 
     - name: Sort file
       run: |
-        awk '{ print | "sort" }' blocklist.txt > blocklist.txt
+        awk '{ print | "sort" }' blocklist.txt > blocklist_sorted.txt
