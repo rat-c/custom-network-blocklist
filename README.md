@@ -12,5 +12,9 @@ Block lists are publicly maintained lists of domains, hosted on a web location s
 
 You can use the `blocklist.txt` for Pi-Hole by using the Web admin GUI > Settings > Blocklists.
 
+## Automated fixing of wordlist
+
+I have added a github action which sorts, removes duplicates and empty spaces from the wordlist, before re-commiting it with every push in the /main branch.
+
 ## Disclaimer
 The files in this repository were created and modified by me for my own personal use and come with no guarantee to work for you. I provide these files "as-is" and offer no support whatsoever to get them working. It's always good to have multiple blocklists if you're relying heavily on those.
