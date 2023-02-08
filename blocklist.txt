@@ -5,3 +5,8 @@
 0.0.0.0 royalacademysc.club
 0.0.0.0 emigrantebi.org
 0.0.0.0 testfile.org
+
+a
+b
+c
+d
