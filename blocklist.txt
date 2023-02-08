@@ -1,6 +1,4 @@
 0.0.0.0 oberbank-app.online
 0.0.0.0 oberbank.site
-0.0.0.0 kauf-gut.sofortchancen.de
-0.0.0.0 h4.rnwub.
+0.0.0.0 sofortchancen.de
 0.0.0.0 megaoffers.tk
-0.0.0.0 qcdddqeeee.duckdns.org
