@@ -1,4 +1,4 @@
-name: Fix Blocklist
+name: Sort Blocklist
 
 on:
   push:
@@ -15,7 +15,8 @@ jobs:
 
     - name: Sort blocklist
       run: |
-        sort -u blocklist.txt | grep -v '^$' > blocklist.txt
+        sort -u blocklist.txt | grep -v '^$' > blocklist_sorted.txt
+        mv blocklist_sorted.txt blocklist.txt
 
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
