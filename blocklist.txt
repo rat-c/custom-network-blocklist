@@ -4,4 +4,3 @@
 0.0.0.0 oberbank.site
 0.0.0.0 royalacademysc.club
 0.0.0.0 sofortchancen.de
-0.0.0.0 testfile.org
