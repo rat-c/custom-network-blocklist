@@ -1,4 +1,4 @@
-name: Sort Text File
+name: Fix Blocklist
 
 on:
   push:
@@ -6,13 +6,20 @@ on:
       - main
 
 jobs:
-  sort_file:
+  sort-blocklist:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
+    - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Sort file
+    - name: Sort blocklist
       run: |
-        cat blocklist.txt | while read line; do echo "$line" | tr ' ' '\n' | sort | tr '\n' ' '; echo; done > sorted_file.txt
+        sort -u blocklist.txt | grep -v '^$' > blocklist.txt
+
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: 'Sort blocklist'
+        branch: main
+        add: 'blocklist.txt'
