@@ -8,5 +8,5 @@ def remove_duplicates(file_path):
                 file.write(line)
                 lines_seen.add(line)
 
-file_path = "file.txt"
+file_path = "blocklist.txt"
 remove_duplicates(file_path)
