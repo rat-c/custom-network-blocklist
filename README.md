@@ -10,7 +10,13 @@ Block lists are publicly maintained lists of domains, hosted on a web location s
 
 ## Usage
 
-You can use the `blocklist.txt` for Pi-Hole by using the Web admin GUI > Settings > Blocklists.
+You can use the `blocklist.txt` for Pi-Hole by using the Web admin GUI. Add the URL to your blocklists (Login > Group Management > Adlists > Paste list URL in "Address" field, add comment > Click "Add"). Then, update gravity (Tools > Update Gravity > Click "Update").
+
+For AdGuard, you can add it to the block list by using the menu: Login > Filters > DNS Blocklists > Add blocklist > Add a custom list > Enter Name > Paste copied link URL. The list is then  automatically enabled and ready to start blocking.
+
+## Issues, Add and Remove Requests
+
+Please use the issues and the templates for these things.
 
 ## Automated fixing of wordlist
 
