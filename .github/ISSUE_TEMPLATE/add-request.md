@@ -1,6 +1,6 @@
 ---
 name: Add request
-about: Create a report to help us improve
+about: Please use this form to create an add request
 title: "[Add request]"
 labels: add-request
 assignees: ''
