@@ -8,6 +8,12 @@ A very basic configuration/blocklist to provide protection of phishing and malwa
 
 Block lists are publicly maintained lists of domains, hosted on a web location somewhere.
 
+### More is not always better
+
+I also know that some of these blocking lists are huge. It may be tempting to use each and every blocklist found here or elsewhere. However, I'm strongly advising you not to do that. A "nuke everything" approach is not necessarily the best option here. Overall, you want to find a balanced solution that both increases your level of privacy while maintaining good functionality.
+
+My custom network blocklist is supposed to provide basic protection of phishing and malware in Europe (de-DE), and these are cases I stumbled across in my daily operation of SOC.
+
 ## Usage
 
 You can use the `blocklist.txt` for Pi-Hole by using the Web admin GUI. Add the URL to your blocklists (Login > Group Management > Adlists > Paste list URL in "Address" field, add comment > Click "Add"). Then, update gravity (Tools > Update Gravity > Click "Update").
