@@ -1,10 +1,9 @@
-<img src="https://i.imgur.com/ah8GB08.png" height="50px"/>  
-
+<img src="https://i.imgur.com/ah8GB08.png" height="50px"/>
 # custom network blocklist
 
 A very basic configuration/blocklist to provide protection of phishing and malware in Europe (de-DE).
 
-<img src=https://t3.ftcdn.net/jpg/02/75/30/58/360_F_275305817_Fve6iyAbru3llQuCUmQLEL3ZNtNXvW31.jpg height="150px"/> 
+<img src=https://t3.ftcdn.net/jpg/02/75/30/58/360_F_275305817_Fve6iyAbru3llQuCUmQLEL3ZNtNXvW31.jpg height="250px"/> 
 
 ## What is a Blocklist?
 
