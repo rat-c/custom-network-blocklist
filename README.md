@@ -2,7 +2,7 @@
 
 A very basic configuration/blocklist to provide protection of phishing and malware in Europe (de-DE).
 
-<img src="https://i.imgur.com/ah8GB08.png" height="150px"/>  
+<img src="https://i.imgur.com/ah8GB08.png" height="100px"/>  
 
 ## What is a Blocklist?
 
