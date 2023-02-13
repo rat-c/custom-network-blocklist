@@ -6,13 +6,15 @@ A very basic configuration/blocklist to provide protection of phishing and malwa
 
 ## What is a Blocklist?
 
-Block lists are publicly maintained lists of domains, hosted on a web location somewhere.
+A blocklist is a publicly maintained list of domains that are hosted on a web location and can be used to block access to them.
 
-### More is not always better
+### The Importance of Finding the Right Balance
 
-I also know that some of these blocking lists are huge. It may be tempting to use each and every blocklist found here or elsewhere. However, I'm strongly advising you not to do that. A "nuke everything" approach is not necessarily the best option here. Overall, you want to find a balanced solution that both increases your level of privacy while maintaining good functionality.
+While there are many blocklists available, it's important to find the right balance between increased privacy and good functionality. Using every blocklist you come across may seem like a good idea, but this "nuke everything" approach can actually hinder your online experience.
 
-My custom network blocklist is supposed to provide basic protection of phishing and malware in Europe (de-DE), and these are cases I stumbled across in my daily operation of SOC.
+### The Custom Network Blocklist
+
+My custom network blocklist is designed to provide basic protection against phishing and malware attacks in Europe (de-DE), based on real-life cases that we have encountered in our daily operations as a Security Operations Center (SOC).
 
 ## Usage
 
