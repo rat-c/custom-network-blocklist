@@ -1,4 +1,3 @@
-0.0.0.0 aberbank.site
 0.0.0.0 emigrantebi.org
 0.0.0.0 ldhbling.com
 0.0.0.0 megaoffers.tk
