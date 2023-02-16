@@ -22,7 +22,7 @@ My custom network blocklist is designed to provide basic protection against phis
 
 To set the blocklist in uBlock Origin, you will have to open up the settings, filter lists and scroll all the way down. There, you will have to insert the raw file, which will be confirmed by displaying 'X used out of X'. This should also sync from device to device, if setup correctly.
 
-<img src="https://i.imgur.com/micR75O.png" height="750px"/>
+<img src="https://i.imgur.com/micR75O.png" height="250px"/>
 
 ### Others
 
