@@ -18,15 +18,19 @@ My custom network blocklist is designed to provide basic protection against phis
 
 ## Usage
 
+Here are various tools the blocklist works with, and a description on how to set it up.
+
 ### uBlock Origin
 
 To set the blocklist in uBlock Origin, you will have to open up the settings, filter lists and scroll all the way down. There, you can place a checkmark next to Import under the Custom section near the bottom of the Filter lists pane. Paste the URLs of the filter lists into the text area that appears below. These filter lists are automatically updated regularly.
 
 <img src="https://i.imgur.com/micR75O.png" height="250px"/>
 
-### Others
+### Pi-Hole
 
 You can use the `blocklist.txt` for Pi-Hole by using the Web admin GUI. Add the URL to your blocklists (Login > Group Management > Adlists > Paste list URL in "Address" field, add comment > Click "Add"). Then, update gravity (Tools > Update Gravity > Click "Update").
+
+### AdGuard
 
 For AdGuard, you can add it to the block list by using the menu: Login > Filters > DNS Blocklists > Add blocklist > Add a custom list > Enter Name > Paste copied link URL. The list is then  automatically enabled and ready to start blocking.
 
@@ -34,7 +38,7 @@ For AdGuard, you can add it to the block list by using the menu: Login > Filters
 
 Please use the issues and the templates for these things.
 
-## Automated fixing of wordlist
+## Automation
 
 I have added a github action which sorts, removes duplicates and empty spaces from the wordlist, before re-commiting it with every push in the /main branch.
 
