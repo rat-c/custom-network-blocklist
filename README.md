@@ -18,6 +18,14 @@ My custom network blocklist is designed to provide basic protection against phis
 
 ## Usage
 
+### uBlock Origin
+
+To set the blocklist in uBlock Origin, you will have to open up the settings, filter lists and scroll all the way down. There, you will have to insert the raw file, which will be confirmed by displaying 'X used out of X'. This should also sync from device to device, if setup correctly.
+
+<img src="https://i.imgur.com/micR75O.png" height="50px"/>
+
+### Others
+
 You can use the `blocklist.txt` for Pi-Hole by using the Web admin GUI. Add the URL to your blocklists (Login > Group Management > Adlists > Paste list URL in "Address" field, add comment > Click "Add"). Then, update gravity (Tools > Update Gravity > Click "Update").
 
 For AdGuard, you can add it to the block list by using the menu: Login > Filters > DNS Blocklists > Add blocklist > Add a custom list > Enter Name > Paste copied link URL. The list is then  automatically enabled and ready to start blocking.
