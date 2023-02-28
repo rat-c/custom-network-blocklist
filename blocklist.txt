@@ -8,8 +8,8 @@
 0.0.0.0 oberbank.site
 0.0.0.0 royalacademysc.club
 0.0.0.0 sofortchancen.de
-0.0.0.0 us.content.exclaimer.net
 0.0.0.0 tracking.bizmoose.com
-0.0.0.0 tracking.teginner.com
 0.0.0.0 tracking.katatagar.com
 0.0.0.0 tracking.nylists.com
+0.0.0.0 tracking.teginner.com
+0.0.0.0 us.content.exclaimer.net
