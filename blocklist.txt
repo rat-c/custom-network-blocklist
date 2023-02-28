@@ -12,4 +12,7 @@
 0.0.0.0 tracking.katatagar.com
 0.0.0.0 tracking.nylists.com
 0.0.0.0 tracking.teginner.com
+0.0.0.0 tracking.pokertino.com
+0.0.0.0 tracking.panides.com
+0.0.0.0 tracking.trulyword.com
 0.0.0.0 us.content.exclaimer.net
