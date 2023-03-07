@@ -17,3 +17,4 @@
 0.0.0.0 tracking.teginner.com
 0.0.0.0 tracking.trulyword.com
 0.0.0.0 us.content.exclaimer.net
+0.0.0.0 bunesfinanzministerium-at.info
