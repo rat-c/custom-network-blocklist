@@ -1,4 +1,4 @@
-0.0.0.0 bunesfinanzministerium-at.info
+0.0.0.0 bundesfinanzministerium-at.info
 0.0.0.0 emigrantebi.org
 0.0.0.0 h302-r14b462921.su
 0.0.0.0 kaufensicher.nl
