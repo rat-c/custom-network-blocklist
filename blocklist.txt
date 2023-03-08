@@ -18,3 +18,7 @@
 0.0.0.0 tracking.teginner.com
 0.0.0.0 tracking.trulyword.com
 0.0.0.0 us.content.exclaimer.net
+0.0.0.0 tracking.caddayn.com
+0.0.0.0 tracking.arixas.com
+0.0.0.0 tracking.devevan.com
+0.0.0.0 tracking.bitubua.com
