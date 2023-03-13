@@ -17,11 +17,11 @@
 0.0.0.0 tracking.caddayn.com
 0.0.0.0 tracking.devevan.com
 0.0.0.0 tracking.katatagar.com
+0.0.0.0 tracking.levantmansion.com
 0.0.0.0 tracking.nylists.com
 0.0.0.0 tracking.panides.com
 0.0.0.0 tracking.pokertino.com
 0.0.0.0 tracking.rowedah.com
 0.0.0.0 tracking.teginner.com
 0.0.0.0 tracking.trulyword.com
-0.0.0.0 tracking.levantmansion.com
 0.0.0.0 us.content.exclaimer.net
