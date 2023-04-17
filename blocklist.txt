@@ -12,6 +12,7 @@
 0.0.0.0 h302-r14b462921.su
 0.0.0.0 journalide.org
 0.0.0.0 kaufensicher.nl
+0.0.0.0 kundenservicedhl.de
 0.0.0.0 ldhbling.com
 0.0.0.0 lieferung-delivery-zahlung.at
 0.0.0.0 lieferung-zahlung-delivery.at
@@ -49,4 +50,3 @@
 0.0.0.0 visualstudiofactory.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
 0.0.0.0 zacharryblods.com
-0.0.0.0 kundenservicedhl.de
