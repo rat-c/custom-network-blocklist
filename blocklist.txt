@@ -4,6 +4,7 @@
 0.0.0.0 azureonlinecloud.com
 0.0.0.0 azureonlinestorage.com
 0.0.0.0 bundesfinanzministerium-at.info
+0.0.0.0 dhl.forwardingit.com
 0.0.0.0 dunamistrd.com
 0.0.0.0 emigrantebi.org
 0.0.0.0 finanzamt-bundesministerium-BMF4289473.info
@@ -50,4 +51,3 @@
 0.0.0.0 visualstudiofactory.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
 0.0.0.0 zacharryblods.com
-0.0.0.0 dhl.forwardingit.com
