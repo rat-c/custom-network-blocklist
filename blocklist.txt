@@ -3,6 +3,7 @@
 0.0.0.0 azuredeploystore.com
 0.0.0.0 azureonlinecloud.com
 0.0.0.0 azureonlinestorage.com
+0.0.0.0 bs.serving-sys.com
 0.0.0.0 bundesfinanzministerium-at.info
 0.0.0.0 dhl.forwardingit.com
 0.0.0.0 dunamistrd.com
@@ -28,6 +29,7 @@
 0.0.0.0 pbxcloudservices.com
 0.0.0.0 pbxphonenetwork.com
 0.0.0.0 pbxsources.com
+0.0.0.0 polo.feathr.co
 0.0.0.0 qwepoi123098.com
 0.0.0.0 royalacademysc.club
 0.0.0.0 sbmsa.wiki
@@ -51,5 +53,3 @@
 0.0.0.0 visualstudiofactory.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
 0.0.0.0 zacharryblods.com
-0.0.0.0 polo.feathr.co
-0.0.0.0 bs.serving-sys.com
