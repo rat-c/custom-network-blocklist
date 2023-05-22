@@ -51,3 +51,5 @@
 0.0.0.0 visualstudiofactory.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
 0.0.0.0 zacharryblods.com
+0.0.0.0 polo.feathr.co
+0.0.0.0 bs.serving-sys.com
