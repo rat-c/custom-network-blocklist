@@ -8,6 +8,7 @@
 0.0.0.0 bundesfinanzministerium-at.info
 0.0.0.0 dhl.forwardingit.com
 0.0.0.0 dunamistrd.com
+0.0.0.0 elba-at.com
 0.0.0.0 emigrantebi.org
 0.0.0.0 finanzamt-bundesministerium-BMF4289473.info
 0.0.0.0 finanzenonline-at.com
@@ -54,7 +55,6 @@
 0.0.0.0 tracking.trulyword.com
 0.0.0.0 us.content.exclaimer.net
 0.0.0.0 visualstudiofactory.com
+0.0.0.0 wwwdhl-deliverytracking.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
 0.0.0.0 zacharryblods.com
-0.0.0.0 wwwdhl-deliverytracking.com
-0.0.0.0 elba-at.com
