@@ -13,6 +13,7 @@
 0.0.0.0 faddubfbjo.setsp03sp.club
 0.0.0.0 finanzamt-bundesministerium-BMF4289473.info
 0.0.0.0 finanzenonline-at.com
+0.0.0.0 flipperzero.at
 0.0.0.0 glcloudservice.com
 0.0.0.0 h302-r14b462921.su
 0.0.0.0 journalide.org
@@ -54,10 +55,9 @@
 0.0.0.0 tracking.rowedah.com
 0.0.0.0 tracking.teginner.com
 0.0.0.0 tracking.trulyword.com
+0.0.0.0 trkrspace.com
 0.0.0.0 us.content.exclaimer.net
 0.0.0.0 visualstudiofactory.com
 0.0.0.0 wwwdhl-deliverytracking.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
 0.0.0.0 zacharryblods.com
-0.0.0.0 flipperzero.at
-0.0.0.0 trkrspace.com
