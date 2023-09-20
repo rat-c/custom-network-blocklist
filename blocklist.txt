@@ -64,3 +64,5 @@
 0.0.0.0 wwwdhl-deliverytracking.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
 0.0.0.0 zacharryblods.com
+0.0.0.0 r20.rs6.net
+0.0.0.0 documentsexchange-1321063488.cos.ap-nanjing.myqcloud.com
