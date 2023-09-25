@@ -34,6 +34,7 @@
 0.0.0.0 oberbank.site
 0.0.0.0 officeaddons.com
 0.0.0.0 officestoragebox.com
+0.0.0.0 otravanet.com
 0.0.0.0 pbxcloudservices.com
 0.0.0.0 pbxphonenetwork.com
 0.0.0.0 pbxsources.com
@@ -66,4 +67,3 @@
 0.0.0.0 wwwdhl-deliverytracking.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
 0.0.0.0 zacharryblods.com
-0.0.0.0 otravanet.com
