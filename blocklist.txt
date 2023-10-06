@@ -1,10 +1,12 @@
 0.0.0.0 8270132b.notifications-1c0.workers.dev
 0.0.0.0 akaimaitechcloudservices.com
 0.0.0.0 akamaicontainer.com
+0.0.0.0 akutverarbeitung.com
 0.0.0.0 azuredeploystore.com
 0.0.0.0 azureonlinecloud.com
 0.0.0.0 azureonlinestorage.com
 0.0.0.0 bantosamos.blogspot.com
+0.0.0.0 bawag-x1.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bundesfinanzministerium-at.info
 0.0.0.0 dhl.forwardingit.com
@@ -67,5 +69,3 @@
 0.0.0.0 wwwdhl-deliverytracking.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
 0.0.0.0 zacharryblods.com
-0.0.0.0 bawag-x1.com
-0.0.0.0 akutverarbeitung.com
