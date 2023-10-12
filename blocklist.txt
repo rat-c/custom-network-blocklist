@@ -43,6 +43,7 @@
 0.0.0.0 pbxsources.com
 0.0.0.0 polo.feathr.co
 0.0.0.0 postatwork.info
+0.0.0.0 postservice.info
 0.0.0.0 proposalfilesdocuments.xyz
 0.0.0.0 qwepoi123098.com
 0.0.0.0 r20.rs6.net
@@ -71,4 +72,3 @@
 0.0.0.0 wwwdhl-deliverytracking.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
 0.0.0.0 zacharryblods.com
-0.0.0.0 postservice.info
