@@ -9,6 +9,7 @@
 0.0.0.0 bawag-x1.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bundesfinanzministerium-at.info
+0.0.0.0 cascasda.xyz
 0.0.0.0 dhl.forwardingit.com
 0.0.0.0 documentsexchange-1321063488.cos.ap-nanjing.myqcloud.com
 0.0.0.0 dunamistrd.com
@@ -73,4 +74,3 @@
 0.0.0.0 wwwdhl-deliverytracking.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
 0.0.0.0 zacharryblods.com
-0.0.0.0 cascasda.xyz
