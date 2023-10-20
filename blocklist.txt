@@ -29,6 +29,7 @@
 0.0.0.0 lieferung-delivery-zahlung.at
 0.0.0.0 lieferung-zahlung-delivery.at
 0.0.0.0 megaoffers.tk
+0.0.0.0 min.lc
 0.0.0.0 mirone.co.mz
 0.0.0.0 msedgepackageinfo.com
 0.0.0.0 msstorageazure.com
@@ -72,4 +73,3 @@
 0.0.0.0 wwwdhl-deliverytracking.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
 0.0.0.0 zacharryblods.com
-0.0.0.0 min.lc
