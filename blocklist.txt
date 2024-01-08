@@ -7,6 +7,7 @@
 0.0.0.0 azureonlinestorage.com
 0.0.0.0 bantosamos.blogspot.com
 0.0.0.0 bawag-x1.com
+0.0.0.0 booking.confrim-reservation-inf.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bundesfinanzministerium-at.info
 0.0.0.0 cascasda.xyz
@@ -75,5 +76,4 @@
 0.0.0.0 visualstudiofactory.com
 0.0.0.0 wwwdhl-deliverytracking.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
-0.0.0.0 booking.confrim-reservation-inf.com
 0.0.0.0 zacharryblods.com
