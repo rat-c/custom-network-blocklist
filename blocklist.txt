@@ -75,4 +75,5 @@
 0.0.0.0 visualstudiofactory.com
 0.0.0.0 wwwdhl-deliverytracking.com
 0.0.0.0 xn----8sbxaiakfgefjrbhv5d.xn--p1ai
+0.0.0.0 booking.confrim-reservation-inf.com
 0.0.0.0 zacharryblods.com
