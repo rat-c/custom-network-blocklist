@@ -14,7 +14,7 @@ While there are many blocklists available, it's important to find the right bala
 
 ### The Custom Network Blocklist
 
-My custom network blocklist is designed to provide basic protection against phishing and malware attacks in Europe (de-DE), based on real-life cases that we have encountered in our daily operations as a Security Operations Center (SOC).
+My custom network blocklist is designed to provide basic protection against phishing and malware attacks in Europe (de-DE), based on real-life cases that we have encountered in our daily operations as a Security Operations Center (SOC). Additionally, some of those are monitored over various platforms and added when threat actors create new ones.
 
 ## Usage
 
