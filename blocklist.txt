@@ -132,10 +132,10 @@
 0.0.0.0 zacharryblods.com
 0.0.0.0 ztaatzaup.shop
 0.0.0.0 zuzysbcse.shop
-afbetaling-schuld.org
-betaal-mijn-schuld.org
-schuld-afbetalen.org
-schuld-afbetaling.org
-schuld-beheren.org
-warantybb.com.tr
-zeaas.com
+0.0.0.0 afbetaling-schuld.org
+0.0.0.0 betaal-mijn-schuld.org
+0.0.0.0 schuld-afbetalen.org
+0.0.0.0 schuld-afbetaling.org
+0.0.0.0 schuld-beheren.org
+0.0.0.0 warantybb.com.tr
+0.0.0.0 zeaas.com
