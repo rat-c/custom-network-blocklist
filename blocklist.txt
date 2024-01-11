@@ -3,6 +3,7 @@
 0.0.0.0 akaimaitechcloudservices.com
 0.0.0.0 akamaicontainer.com
 0.0.0.0 akutverarbeitung.com
+0.0.0.0 amgreetings.tech-department.us
 0.0.0.0 azjzubojn.shop
 0.0.0.0 azuredeploystore.com
 0.0.0.0 azureonlinecloud.com
@@ -14,7 +15,9 @@
 0.0.0.0 booking.confrim-reservation-inf.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bundesfinanzministerium-at.info
+0.0.0.0 cabotcorpsupport-my.sharepoint.com
 0.0.0.0 cascasda.xyz
+0.0.0.0 cbre.tech-department.us
 0.0.0.0 cpdzdwol.shop
 0.0.0.0 cricketastroking.com
 0.0.0.0 dhl.forwardingit.com
@@ -29,6 +32,7 @@
 0.0.0.0 finanzenonline-at.com
 0.0.0.0 finanzz-online.com
 0.0.0.0 flipperzero.at
+0.0.0.0 formeld.tech-department.us
 0.0.0.0 fuser-app.sentieo.com
 0.0.0.0 fwqdbvvqu.shop
 0.0.0.0 gfwhutyoa.shop
@@ -37,6 +41,7 @@
 0.0.0.0 h302-r14b462921.su
 0.0.0.0 hcpofzil.shop
 0.0.0.0 hrmeeubs.shop
+0.0.0.0 hubergroup.tech-department.us
 0.0.0.0 iajcqchub.shop
 0.0.0.0 iamabdulqadeer.com
 0.0.0.0 ifjdjnuw.shop
@@ -45,6 +50,11 @@
 0.0.0.0 journalide.org
 0.0.0.0 jwinnjmkm.shop
 0.0.0.0 kaufensicher.nl
+0.0.0.0 kellyhrservices-my.sharepoint.com
+0.0.0.0 kellyservices-hr.com
+0.0.0.0 kellyservicesheadhunter-my.sharepoint.com
+0.0.0.0 kellyserviceshr-my.sharepoint.com
+0.0.0.0 kellyservicesrecruitmentdep-my.sharepoint.com
 0.0.0.0 kqqlidavoy.shop
 0.0.0.0 kqunxtfv.shop
 0.0.0.0 kundenservicedhl.de
@@ -53,6 +63,7 @@
 0.0.0.0 lieferung-delivery-zahlung.at
 0.0.0.0 lieferung-zahlung-delivery.at
 0.0.0.0 loanway.pl
+0.0.0.0 mckinseyhrcompany-my.sharepoint.com
 0.0.0.0 megaoffers.tk
 0.0.0.0 min.lc
 0.0.0.0 mirone.co.mz
@@ -62,6 +73,7 @@
 0.0.0.0 mytrust-wallet.app
 0.0.0.0 ngbrycgoy.shop
 0.0.0.0 ngwwgawb.shop
+0.0.0.0 nixonpeabody.tech-department.us
 0.0.0.0 oberbank-app.online
 0.0.0.0 oberbank.site
 0.0.0.0 officeaddons.com
@@ -72,6 +84,7 @@
 0.0.0.0 pbxcloudservices.com
 0.0.0.0 pbxphonenetwork.com
 0.0.0.0 pbxsources.com
+0.0.0.0 perimeter81support-my.sharepoint.com
 0.0.0.0 polo.feathr.co
 0.0.0.0 postatwork.info
 0.0.0.0 postservice.info
@@ -98,6 +111,7 @@
 0.0.0.0 sztsbhqhr.shop
 0.0.0.0 t.yamsguchi.digital
 0.0.0.0 tapxfpwwh.shop
+0.0.0.0 tech-department.us
 0.0.0.0 tgyzrirhh.shop
 0.0.0.0 tivtegda.autos
 0.0.0.0 tqroufyx.shop
@@ -128,6 +142,7 @@
 0.0.0.0 vpfiakxyi.shop
 0.0.0.0 warantybb.com.tr
 0.0.0.0 warfmaid.shop
+0.0.0.0 webmicrosoftservicesystem.com
 0.0.0.0 wlxrlhjl.shop
 0.0.0.0 wwwdhl-deliverytracking.com
 0.0.0.0 wylvgumpu.shop
@@ -139,18 +154,3 @@
 0.0.0.0 zeaas.com
 0.0.0.0 ztaatzaup.shop
 0.0.0.0 zuzysbcse.shop
-0.0.0.0 nixonpeabody.tech-department.us
-0.0.0.0 amgreetings.tech-department.us
-0.0.0.0 cbre.tech-department.us
-0.0.0.0 tech-department.us
-0.0.0.0 kellyservices-hr.com
-0.0.0.0 hubergroup.tech-department.us
-0.0.0.0 formeld.tech-department.us
-0.0.0.0 kellyhrservices-my.sharepoint.com
-0.0.0.0 kellyserviceshr-my.sharepoint.com
-0.0.0.0 kellyservicesrecruitmentdep-my.sharepoint.com
-0.0.0.0 kellyservicesheadhunter-my.sharepoint.com
-0.0.0.0 mckinseyhrcompany-my.sharepoint.com
-0.0.0.0 webmicrosoftservicesystem.com
-0.0.0.0 perimeter81support-my.sharepoint.com
-0.0.0.0 cabotcorpsupport-my.sharepoint.com
