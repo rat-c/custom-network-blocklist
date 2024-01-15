@@ -136,6 +136,7 @@
 0.0.0.0 udvtuphaf.shop
 0.0.0.0 uoybairjn.shop
 0.0.0.0 uqcrbuaa.shop
+0.0.0.0 url7923.marsello.io
 0.0.0.0 us.content.exclaimer.net
 0.0.0.0 uvryzjbp.shop
 0.0.0.0 uypbyinvt.shop
@@ -155,4 +156,3 @@
 0.0.0.0 zeaas.com
 0.0.0.0 ztaatzaup.shop
 0.0.0.0 zuzysbcse.shop
-0.0.0.0 url7923.marsello.io
