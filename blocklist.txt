@@ -157,3 +157,4 @@
 0.0.0.0 zeaas.com
 0.0.0.0 ztaatzaup.shop
 0.0.0.0 zuzysbcse.shop
+0.0.0.0 obeyclothingssale.vip
