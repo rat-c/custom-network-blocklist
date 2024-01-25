@@ -13,6 +13,7 @@
 0.0.0.0 bawag-x1.com
 0.0.0.0 betaal-mijn-schuld.org
 0.0.0.0 bhhoyjoc.com
+0.0.0.0 bmwag-rt-prod2-t.campaign.adobe.com
 0.0.0.0 booking.confrim-reservation-inf.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bundesfinanzministerium-at.info
@@ -158,4 +159,3 @@
 0.0.0.0 zeaas.com
 0.0.0.0 ztaatzaup.shop
 0.0.0.0 zuzysbcse.shop
-0.0.0.0 bmwag-rt-prod2-t.campaign.adobe.com
