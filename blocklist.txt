@@ -96,6 +96,7 @@
 0.0.0.0 proposalfilesdocuments.xyz
 0.0.0.0 psk-at.net
 0.0.0.0 pxgbqzumf.shop
+0.0.0.0 py.pl
 0.0.0.0 pyabfsgf.shop
 0.0.0.0 qbujlnxds.shop
 0.0.0.0 qthzowax.shop
@@ -160,4 +161,3 @@
 0.0.0.0 zeaas.com
 0.0.0.0 ztaatzaup.shop
 0.0.0.0 zuzysbcse.shop
-0.0.0.0 py.pl
