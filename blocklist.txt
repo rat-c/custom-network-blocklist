@@ -5,6 +5,7 @@
 0.0.0.0 akamaicontainer.com
 0.0.0.0 akutverarbeitung.com
 0.0.0.0 amgreetings.tech-department.us
+0.0.0.0 at-dhl.icu
 0.0.0.0 azjzubojn.shop
 0.0.0.0 azuredeploystore.com
 0.0.0.0 azureonlinecloud.com
@@ -161,4 +162,3 @@
 0.0.0.0 zeaas.com
 0.0.0.0 ztaatzaup.shop
 0.0.0.0 zuzysbcse.shop
-0.0.0.0 at-dhl.icu
